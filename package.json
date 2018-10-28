@@ -1,0 +1,22 @@
+{
+  "name": "A Kadir Can Ekinci",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Lord",
+  "license": "ISC",
+  "dependencies": {
+    "cat-names": "^2.0.0",
+    "chalk": "^2.4.1",
+    "cheerio": "^1.0.0-rc.2",
+    "discord.js-commando": "^0.10.0",
+    "fortnitetracker-7days-stats": "^3.1.1",
+    "moment": "^2.22.2",
+    "ms": "^2.1.1",
+    "request": "^2.88.0",
+    "weather-js": "^2.0.0"
+  }
+}
